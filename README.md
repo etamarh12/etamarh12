@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Itamar Chen</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
-- 🌱 I’m currently expanding my knowledge at **React ,Nodejs and redux**
+- 🌱 I’m currently expanding my knowledge at **BackEnd**
 - 👨‍💻 A little bit about me : **I like to learn new things, explore and discover new technologies.**
 - 👨‍ A random thing that defines me : i'm proactive.
 
